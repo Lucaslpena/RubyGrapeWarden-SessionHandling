@@ -28,4 +28,3 @@ Logging is in ./log/.log
 Get [Paw](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) or other RESTclient or check in `'app/api/protected_service.rb'` for breakdown of each the requests.
 
 Simple and effective way of handling authentication in your application mobile - Ruby/Grape Applications.
-
